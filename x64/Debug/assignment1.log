@@ -1,0 +1,3 @@
+﻿  knight.cpp
+E:\learn\IT\assignment1\knight.cpp(593,9): warning C4101: 'n9': unreferenced local variable
+  assignment1.vcxproj -> E:\learn\IT\assignment1\x64\Debug\assignment1.exe
